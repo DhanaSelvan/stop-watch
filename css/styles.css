@@ -1,0 +1,12 @@
+main {
+    height: 100vh;
+}
+
+.hour, .mins, .secs {
+    font-size: 32px;
+}
+
+.label {
+    font-size: 32px;
+    margin-left: 10px;
+}
